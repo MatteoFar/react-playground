@@ -18,7 +18,7 @@ function FirstName(props) {
 }
 
 function LastName(props) {
-
+  
   function toUpperCaseColor(lastname) {
     return lastName.toUpperCase()
   }
